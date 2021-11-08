@@ -1,0 +1,12 @@
+/* TEAM */
+
+Developer: CosmicWyvern 
+Site: https://github.com/CosmicWyvern
+Location: Blockchain
+
+/* SITE */
+
+Last Update: 2021/11/06
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: Visual Studio Code, Figma
